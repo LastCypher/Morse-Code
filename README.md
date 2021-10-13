@@ -1,2 +1,10 @@
 # Morse-Code
 Encrypt and Decrypt Morse Code
+
+
+
+CONTRIBUTORS
+-KISHLAY KRISHNA
+-AJITESH GUPTA
+-SOMYA
+-KEERTHANA PATIL
